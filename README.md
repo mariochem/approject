@@ -1,9 +1,9 @@
-# approject
+# Approject
 Risk Analysis, Project Plan, Financing and Management issues.
 
-Design Recipes Help Center
+Design Recipes for Applications
 
-In this course, we teach an approach to program design based on recipes. Each design recipe is applicable to certain problems, and systematizes the process of designing solutions to those problems.
+In this page, we are shown an approach to program design based on recipes. Each design recipe is applicable to certain problems, and systematizes the process of designing solutions to those problems.
 
 There are four core recipes that handle most of the design work, additional recipes handle variations of the core recipes for particular kinds of problems. A list of the recipes presented in this course is shown below; clicking on the links provides a detailed description of the recipe.
 
