@@ -1,5 +1,4 @@
-# Approject
-Risk Analysis, Project Plan, Financing and Management issues.
+# Approjecth
 
 Design Recipes for Applications
 
